@@ -5,4 +5,6 @@
 O código visa realizar uma análise exploratória das variáveis disponíveis para entendermos a distribuição dentro do dataset, além de uma análise multivariada com a variável target para encontrar padrões e tendências que levem a uma determinada características receber mais de 50k dólares ao ano.
 Ao final, é realizada uma modelagem preditiva para identificar os clientes mais propensos a cada categoria do target, junto a uma análise dos resultados e interpretabilidade do modelo utilizando SHAP.
 
+Diferente da maioria dos projetos disponíveis, criei uma apresentação em PDF com toda a explicação do desenvolvimento da análise e insights retirados durante o processo.
+
 ![](../header.png)
